@@ -1,9 +1,10 @@
-#_Irakli Tsulaiya_
+# _Irakli Tsulaiya_
+
 ![logo](logo.jpg)
 
 ---
 
-###Contact me:
+### Contact me:
 
 - Telegram: [Irakli Tsulaiya](https://t.me/ika_x)
 - Email: irakli4520@gmail.com
@@ -11,17 +12,19 @@
 
 ---
 
-###About me:
+### About me:
+
 I'm 23 y.o man from Georgia. Want to become full-stack developer.
 
 ---
 
-###Skills:
+### Skills:
+
 ![html](html.jpg) ![css](css.jpg) ![js](js.jpg) ![git](git.jpg) ![ogl](ogl.jpg)
 
 ---
 
-####Code exampe:
+#### Code exampe:
 
 ```
 void changeSize(int w, int h)
@@ -39,7 +42,7 @@ void changeSize(int w, int h)
 
 ---
 
-###Language:
+### Language:
 
 - Russian - Navive
 - English - B2
